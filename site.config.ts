@@ -14,10 +14,10 @@ export default siteConfig({
   author: '阿拉丁',
 
   // open graph metadata (optional)
-  description: '阿拉丁神灯能量花园｜阿拉丁AI成长课堂',
+  description: '阿拉丁禅意花园｜阿拉丁AI神灯花园',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'joechan473062',
   github: 'andyzju',
   linkedin: '阿拉丁',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
